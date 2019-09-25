@@ -38,63 +38,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-desarmado:before {
+.icon-001-horseshoes:before {
   content: "\61";
 }
-.icon-lanza:before {
+.icon-002-atmospheric:before {
   content: "\62";
 }
-.icon-dual-lanza:before {
+.icon-003-ancient:before {
   content: "\63";
 }
-.icon-oliva:before {
+.icon-006-centaur:before {
   content: "\64";
-}
-.icon-arco:before {
-  content: "\65";
-}
-.icon-pv:before {
-  content: "\66";
-}
-.icon-dual-espada:before {
-  content: "\67";
-}
-.icon-labrys:before {
-  content: "\68";
-}
-.icon-dual-daga:before {
-  content: "\69";
-}
-.icon-espada:before {
-  content: "\6a";
-}
-.icon-vel:before {
-  content: "\6b";
-}
-.icon-pe:before {
-  content: "\6c";
-}
-.icon-esencia:before {
-  content: "\6d";
-}
-.icon-escudo:before {
-  content: "\6e";
-}
-.icon-hacha:before {
-  content: "\6f";
-}
-.icon-pr:before {
-  content: "\70";
-}
-.icon-daga:before {
-  content: "\71";
-}
-.icon-atmospheric:before {
-  content: "\72";
-}
-.icon-thunder:before {
-  content: "\73";
-}
-.icon-ship:before {
-  content: "\74";
 }
