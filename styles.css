@@ -25,8 +25,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-[class^="i-"]:before,
-[class*=" i-"]:before {
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
   font-family: "avam" !important;
   font-style: normal !important;
   font-weight: normal !important;
@@ -38,21 +38,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.i-horseshoes:before {
+.icon-horseshoes:before {
   content: "\61";
 }
-.i-thunder:before {
+.icon-thunder:before {
   content: "\62";
 }
-.i-ancient:before {
+.icon-ancient:before {
   content: "\63";
 }
-.i-zeus:before {
+.icon-zeus:before {
   content: "\65";
 }
-.i-thor:before {
+.icon-thor:before {
   content: "\66";
 }
-.i-centaur:before {
+.icon-centaur:before {
   content: "\64";
 }
