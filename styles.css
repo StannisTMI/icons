@@ -1,19 +1,19 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: "avam";
-  src:url("fonts/avam.eot");
-  src:url("fonts/avam.eot?#iefix") format("embedded-opentype"),
-    url("fonts/avam.woff") format("woff"),
-    url("fonts/avam.ttf") format("truetype"),
-    url("fonts/avam.svg#avam") format("svg");
+  font-family: "untitled-font-1";
+  src:url("fonts/untitled-font-1.eot");
+  src:url("fonts/untitled-font-1.eot?#iefix") format("embedded-opentype"),
+    url("fonts/untitled-font-1.woff") format("woff"),
+    url("fonts/untitled-font-1.ttf") format("truetype"),
+    url("fonts/untitled-font-1.svg#untitled-font-1") format("svg");
   font-weight: normal;
   font-style: normal;
 
 }
 
 [data-icon]:before {
-  font-family: "avam" !important;
+  font-family: "untitled-font-1" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: normal !important;
@@ -27,7 +27,7 @@
 
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: "avam" !important;
+  font-family: "untitled-font-1" !important;
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
@@ -38,21 +38,27 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-horseshoes:before {
+.icon-centaur:before {
   content: "\61";
 }
-.icon-thunder:before {
-  content: "\62";
-}
-.icon-ancient:before {
+.icon-boat:before {
   content: "\63";
 }
-.icon-zeus:before {
-  content: "\65";
+.icon-cyclops:before {
+  content: "\67";
 }
-.icon-thor:before {
-  content: "\66";
+.icon-gemini:before {
+  content: "\68";
 }
-.icon-centaur:before {
-  content: "\64";
+.icon-death:before {
+  content: "\69";
+}
+.icon-golden-apple:before {
+  content: "\6a";
+}
+.icon-laurel:before {
+  content: "\6b";
+}
+.icon-shield:before {
+  content: "\6c";
 }
